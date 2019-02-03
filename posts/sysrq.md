@@ -1,6 +1,6 @@
 # 魔术键 SysRq
 
-![](https://github.com/major1201/blog/raw/master/assets/sysrq/sysrq.jpg)
+![](sysrq/sysrq.jpg)
 
 ## 使用场景
 

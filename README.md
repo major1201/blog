@@ -1,6 +1,6 @@
 # Major 的博客
 
-专注开发、运维、安全的博客、笔记、译文、转载，订阅请 `star`
+专注开发、运维、安全的博客、笔记、译文、转载，喜欢请点 `Star`，订阅请点 `Watch`
 
 ## 技术
 
@@ -8,7 +8,7 @@
 
 标题|类型
 :-----------------|:-:
-[魔术键 SysRq](https://github.com/major1201/blog/blob/master/sysrq.md)|原创
+[魔术键 SysRq](posts/sysrq.md)|原创
 
 ## 逻辑
 
