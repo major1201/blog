@@ -1,0 +1,20 @@
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="707" height="530">
+<path d="M 201,463 L 664,463 L 693,520 L 172,520" fill="#ff99cb"/>
+<path d="M 232,404 L 634,404 L 664,463 L 201,463" fill="#ffcb99"/>
+<path d="M 264,341 L 602,341 L 634,404 L 232,404" fill="#feff99"/>
+<path d="M 297,277 L 570,277 L 602,341 L 264,341" fill="#cefecc"/>
+<path d="M 331,211 L 536,211 L 570,277 L 297,277" fill="#cff"/>
+<path d="M 367,140 L 500,140 L 536,211 L 331,211" fill="#ca9bfb"/>
+<path d="M 434,10 L 500,140 L 367,140" fill="#e1e1e1"/>
+<path d="M 434,10 L 172,520 L 693,520 z M 14,140 L 500,140 M 14,211 L 536,211 M 14,277 L 570,277 M 14,341 L 602,341 M 14,404 L 634,404 M 14,463 L 664,463 M 14,520 L 172,520" fill="none" stroke="#000" stroke-width="4"/>
+<text font-family="Arial" font-size="27px">
+	<tspan x="14" y="117" fill="#000000" id="a">驳倒其中心论点</tspan>
+	<tspan x="14" y="188" fill="#000000" id="b">原文反驳</tspan>
+	<tspan x="14" y="254" fill="#000000" id="c">使用论据</tspan>
+	<tspan x="14" y="318" fill="#000000" id="d">指出矛盾</tspan>
+	<tspan x="14" y="381" fill="#000000" id="e">批评语气</tspan>
+	<tspan x="14" y="440" fill="#000000" id="f">单纯的人身攻击</tspan>
+	<tspan x="14" y="497" fill="#000000" id="g">辱骂</tspan>
+</text>
+<text font-family="Arial" font-size="17px" text-anchor="middle"><tspan x="434" y="90" id="a1">提出理</tspan><tspan x="434" y="109" id="a2">由反对对手</tspan><tspan x="434" y="128" id="a3">的主要论点</tspan><tspan x="434" y="161" id="b1"></tspan><tspan x="434" y="180" id="b2">引用对手发言，</tspan><tspan x="434" y="199" id="b3">指出自己不同意之处</tspan><tspan x="434" y="230" id="c1"></tspan><tspan x="434" y="249" id="c2">阐述反对的观点，</tspan><tspan x="434" y="268" id="c3">并加上理由支持</tspan><tspan x="434" y="305" id="d1">阐述反对的观点，</tspan><tspan x="434" y="324" id="d2">但几乎不提出有力的理由支持</tspan><tspan x="434" y="369" id="e1">不针对发言内容讨论，</tspan><tspan x="434" y="388" id="e2">而是批评对手的语气</tspan><tspan x="434" y="429" id="f1">不针对发言内容讨论，</tspan><tspan x="434" y="448" id="f2">而是攻击对手的个人特质（个性、职业、学历）</tspan><tspan x="434" y="496" id="g1">“傻逼吧”，“你个嘴炮”，“你妈知道你在这里说废话么？”</tspan></text>
+</svg>

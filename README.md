@@ -11,7 +11,11 @@
 [魔术键 SysRq](posts/sysrq.md)|原创
 [网卡绑定](posts/network-bonding.md)|笔记
 
-## 逻辑
+## 心理学
+
+标题|类型
+:-----------------|:-:
+[如何表达不同意见](posts/how-to-disagree.md)|译文
 
 ## 转载说明
 
