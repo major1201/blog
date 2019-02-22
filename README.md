@@ -11,6 +11,7 @@
 [魔术键 SysRq](posts/sysrq.md)|原创
 [网卡绑定](posts/network-bonding.md)|笔记
 [TCP 状态详解](posts/tcp-state.md)|笔记
+[HTTP 备忘录](posts/http.md)|笔记
 
 ## 心理学
 
