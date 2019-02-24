@@ -13,6 +13,12 @@
 [TCP 状态详解](posts/tcp-state.md)|笔记
 [HTTP 备忘录](posts/http.md)|笔记
 
+### 安全
+
+标题|类型
+:-----------------|:-:
+[dm-crypt 简介](posts/dm-crypt.md)|部分原创
+
 ## 心理学
 
 标题|类型
